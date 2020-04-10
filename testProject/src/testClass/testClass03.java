@@ -14,7 +14,7 @@ public class testClass03 {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("test 03");
+		System.out.println("local 03");
 
 	}
 
